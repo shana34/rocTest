@@ -1,0 +1,64 @@
+UNN-----------------1
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2262.3
+Time cost    : 2557.57
+Tflops : 0.00819978
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+UNU-----------------2
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2188.64
+Time cost    : 2486.61
+Tflops : 0.00843378
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+UTN-----------------3
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2151.66
+Time cost    : 381.842
+Tflops : 0.054922
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+UTU-----------------4
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2232.13
+Time cost    : 385.694
+Tflops : 0.0543735
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+LNN-----------------5
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2288.24
+Time cost    : 2505.99
+Tflops : 0.00836856
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+LNU-----------------6
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2195.1
+Time cost    : 2485.68
+Tflops : 0.00843695
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+LTN-----------------7
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2190.52
+Time cost    : 409.458
+Tflops : 0.0512177
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1
+LTU-----------------8
+Parsed options for: ./trsv
+M : 20480, N : 20480
+sizeA 419430400: sizeX 20480: sizeB: 20480
+Time cost(1) : 2244
+Time cost    : 389.422
+Tflops : 0.0538529
+M, N, lda, incx, incy = 20480, 20480, 20480, 1, 1

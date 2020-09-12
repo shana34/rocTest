@@ -1,0 +1,16 @@
+Tflops  : 8.46641
+Tflops  : 8.43611
+Tflops  : 8.76226
+Tflops  : 8.86764
+Tflops  : 9.48913
+Tflops  : 9.43661
+Tflops  : 8.7556
+Tflops  : 8.81238
+Tflops  : 8.46197
+Tflops  : 8.34496
+Tflops  : 8.68114
+Tflops  : 8.56906
+Tflops  : 9.50203
+Tflops  : 9.45061
+Tflops  : 8.78561
+Tflops  : 8.67305
