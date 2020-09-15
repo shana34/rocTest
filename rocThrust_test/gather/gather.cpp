@@ -33,11 +33,11 @@ int main(int argc, char **argv)
 		thrust::device_vector<int> d_map(A, A + dim[i]);
 		thrust::device_vector<int> d_out(dim[i]);
 		hipEventRecord(begin);
-		hipEventRecord(end);
 			while(cnt_1--){
 				thrust::gather(d_map.begin(), d_map.end(), d_A.begin(), d_out.begin());	
 				hipDeviceSynchronize();
 			}
+		hipEventRecord(end);
 		hipEventSynchronize(begin);
 		hipEventSynchronize(end);
 		float time = 0.0f;
